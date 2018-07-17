@@ -16,6 +16,12 @@ public class MainActivity extends AppCompatActivity {
 
         //01
 
-
     }
+
+    
+    public void foo(){
+        String abc = "def";
+    }
+
+
 }
